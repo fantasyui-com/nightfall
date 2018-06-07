@@ -1,0 +1,32 @@
+{
+  "name": "nightfall",
+  "version": "1.1.0",
+  "scripts": {
+    "make": "node dev-make.js > style.css",
+    "test": "node dev-test.js"
+  },
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "color": "^3.0.0",
+    "posthtml-custom-elements": "^1.1.1",
+    "posthtml-minifier": "^0.1.0",
+    "screenfull": "^3.3.2",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "posthtml": "^0.11.3"
+  },
+  "description": "Simple and beautiful nightfall background collection. [Art, CSS, Backgrounds, CSS Gradients]",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/nightfall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/nightfall/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/nightfall#readme"
+}
