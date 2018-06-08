@@ -1,0 +1,17 @@
+background: linear-gradient(to bottom, #322f4c 0%,#282544 30%,#212238 52%,#1c1b2d 70%,#161523 87%,#131220 100%);
+background: linear-gradient(to bottom, #0c1228 0%,#111832 14%,#1b1f3c 29%,#2d2846 47%,#40304a 63%,#53414d 81%,#765e5c 100%);
+background: linear-gradient(to bottom, #270d41 0%,#330f55 17%,#3c1561 36%,#642e96 58%,#8c59bb 74%,#8d5bbb 88%,#9060bc 100%);
+background: linear-gradient(to bottom, #36294f 0%,#3b2e56 13%,#57396f 22%,#6c4270 35%,#b24a27 81%,#966a44 100%);
+background: linear-gradient(to bottom, #06162d 0%,#0f2e4b 33%,#153951 61%,#133757 82%,#1c4058 100%);
+background: linear-gradient(to bottom, #061e2e 0%,#0e2638 9%,#0c2638 17%,#0c2a3c 30%,#0e3346 43%,#0f394b 52%,#0d4157 70%,#104150 83%,#1c4b58 100%);
+background: linear-gradient(to bottom, #1e3b5b 0%,#183e62 9%,#174f6e 17%,#287484 26%,#28818d 39%,#1a7286 48%,#0f6073 61%,#105e6b 70%,#34659f 83%,#467aac 91%,#3a9aa8 100%);
+background: linear-gradient(to bottom, #8b4799 0%,#664191 25%,#886aa8 77%,#78569c 100%)
+background: linear-gradient(to bottom, #323f6e 0%,#682b5c 48%,#2a3466 65%,#2c3768 74%,#2d416f 83%,#273e6b 100%);
+background: linear-gradient(to bottom, #613e7c 0%,#223d74 48%,#0e526b 99%);
+background: linear-gradient(to bottom, #0b0a16 0%,#0d0f17 9%,#0e151e 17%,#111f2f 26%,#172743 35%,#35426b 48%,#4b527d 61%,#4e6480 70%,#616877 78%,#a88a91 100%);
+background: linear-gradient(to bottom, #172f67 0%,#2f4a87 10%,#243d78 32%,#365490 52%,#074363 77%,#314e85 100%);
+background: linear-gradient(to bottom, #373060 0%,#3a3363 5%,#3f3a70 12%,#7e406f 30%,#914b88 39%,#cb83a3 64%,#c2729a 70%,#b25e8c 79%,#904a7a 91%,#7f4171 100%);
+background: linear-gradient(to bottom, #141b4c 0%,#1b285d 48%,#22185b 70%,#351760 85%,#460b5b 100%);
+background: linear-gradient(to bottom, #0d2125 0%,#0c1320 9%,#250d25 17%,#391335 26%,#480f54 35%,#d769a4 69%,#ea92bf 86%,#ee98c6 100%);
+background: linear-gradient(to bottom, #030c09 0%,#0c2334 17%,#133343 30%,#103546 36%,#183f54 65%,#1d445b 70%,#265066 83%,#2d576f 87%,#1f6c7a 100%);
+background: linear-gradient(135deg, #05142b 0%,#06182c 9%,#041728 17%,#09152b 26%,#061b36 39%,#113557 48%,#0d3862 57%,#123c6c 65%,#183763 78%,#163a6e 91%,#103665 100%);

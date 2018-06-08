@@ -18,7 +18,7 @@ const minifierOptions = {
   // minifyJS: true
 };
 
-function update(source){
+function updateHtml(source){
 
   console.log(chalk.green('Recompiled: '+source));
 
@@ -37,6 +37,12 @@ function update(source){
 
 }
 
+function updateCss(source){
+  const synthwave = require('./index.js');
+  const result = synthwave.css(/[a-z]/);
+  fs.writeFileSync(path.join(__dirname, 'style.css'), result);
+}
+
 watch.watchTree(__dirname, {filter: function(source){ return source.match(/\.src\.html$/) }, ignoreDirectoryPattern:/node_modules/}, function (f, curr, prev) {
   if (typeof f == "object" && prev === null && curr === null) {
     // Finished walking the tree
@@ -44,20 +50,46 @@ watch.watchTree(__dirname, {filter: function(source){ return source.match(/\.src
     console.log(chalk.yellow( 'Watcher is monitoring:' ));
     console.log(chalk.yellow( Object.keys(f).filter(i=>i.match(/\.src\.html$/)).join('\n') ));
     console.log(chalk.yellow( '' ));
-    Object.keys(f).filter(i=>i.match(/\.src\.html$/)).map(i=>update(i));
+    Object.keys(f).filter(i=>i.match(/\.src\.html$/)).map(i=>updateHtml(i));
 
   } else if (prev === null) {
     // f is a new file
-    update(f);
+    updateHtml(f);
 
   } else if (curr.nlink === 0) {
 
     // f was removed
-    // do nothing update(f);
+    // do nothing updateHtml(f);
     // user is expected to cleanup
 
   } else {
     // f was changed
-    update(f);
+    updateHtml(f);
+  }
+})
+
+
+watch.watchTree(__dirname, {filter: function(source){ return source.match(/^style.json$/) }, ignoreDirectoryPattern:/node_modules/}, function (f, curr, prev) {
+  if (typeof f == "object" && prev === null && curr === null) {
+    // Finished walking the tree
+    console.log( f );
+    console.log(chalk.yellow( 'Watcher is monitoring:' ));
+    console.log(chalk.yellow( Object.keys(f).filter(i=>i.match(/\.src\.html$/)).join('\n') ));
+    console.log(chalk.yellow( '' ));
+    Object.keys(f).filter(i=>i.match(/\.src\.html$/)).map(i=>updateCss(i));
+
+  } else if (prev === null) {
+    // f is a new file
+    updateCss(f);
+
+  } else if (curr.nlink === 0) {
+
+    // f was removed
+    // do nothing updateCss(f);
+    // user is expected to cleanup
+
+  } else {
+    // f was changed
+    updateCss(f);
   }
 })

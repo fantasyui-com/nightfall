@@ -8,9 +8,7 @@ const render = function (input){
     return `.${database.meta.name}-${id} { background: ${type}(${angle}, ${gradient.map(i=>[i.color, i.position].join(" ") ).join(", ")}); }`
   });
 }
-
 module.exports = {
-
     render,
     css: function(pattern){
       const selected = database.data.filter(gradient => gradient.id.match(pattern));
@@ -20,5 +18,4 @@ module.exports = {
       const selected = database.data.filter(gradient => gradient.id.match(pattern));
       return selected;
     }
-
 };
