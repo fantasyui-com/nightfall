@@ -35,6 +35,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -72,6 +116,50 @@
             {
               "color": "#765E5C",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -113,6 +201,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -148,6 +280,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -177,6 +353,50 @@
             {
               "color": "#1C4058",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -224,6 +444,50 @@
             {
               "color": "#1C4B58",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -281,6 +545,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -306,6 +614,50 @@
             {
               "color": "#78569C",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -343,6 +695,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -363,6 +759,50 @@
             },
             {
               "color": "#0E526B",
+              "position": "99%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
               "position": "99%"
             }
           ]
@@ -417,6 +857,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -450,6 +934,50 @@
             {
               "color": "#314E85",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -503,6 +1031,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -532,6 +1104,50 @@
             {
               "color": "#460B5B",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -575,6 +1191,50 @@
             {
               "color": "#EE98C6",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -622,6 +1282,50 @@
             {
               "color": "#1F6C7A",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -687,6 +1391,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -746,6 +1494,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -783,6 +1575,50 @@
             {
               "color": "#11080B",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -832,6 +1668,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -879,6 +1759,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -916,6 +1840,50 @@
             {
               "color": "#66466D",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -957,6 +1925,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -992,6 +2004,50 @@
               "position": "100%"
             }
           ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
+            }
+          ]
         }
       ]
     },
@@ -1025,6 +2081,50 @@
             {
               "color": "#153663",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }
@@ -1068,6 +2168,50 @@
             {
               "color": "#C76C42",
               "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "135deg",
+          "data": [
+            {
+              "color": "#322F4C",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "30%"
+            },
+            {
+              "color": "#212238",
+              "position": "52%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "70%"
+            },
+            {
+              "color": "#161523",
+              "position": "87%"
+            },
+            {
+              "color": "rgba(0,0,0,0)",
+              "position": "100%"
+            }
+          ]
+        },
+        {
+          "type": "linear-gradient",
+          "angle": "0deg",
+          "data": [
+            {
+              "color": "#000000",
+              "position": "0%"
+            },
+            {
+              "color": "rgba(255,255,255,0)",
+              "position": "99%"
             }
           ]
         }

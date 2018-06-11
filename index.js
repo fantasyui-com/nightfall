@@ -1,4 +1,5 @@
 const fs = require('fs');
+const metadata = JSON.parse(fs.readFileSync(__dirname+'/package.json').toString());
 const database = JSON.parse(fs.readFileSync(__dirname+'/style.json').toString());
 
 const render = function (input){
@@ -9,6 +10,7 @@ const render = function (input){
   });
 }
 module.exports = {
+    metadata,
     render,
     css: function(pattern){
       const selected = database.data.filter(gradient => gradient.id.match(pattern));
