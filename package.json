@@ -1,6 +1,6 @@
 {
   "name": "nightfall",
-  "version": "3.6.1",
+  "version": "3.7.0",
   "scripts": {
     "make": "node dev-make.js > style.css",
     "test": "node dev-test.js"
