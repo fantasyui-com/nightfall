@@ -71,11 +71,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -154,11 +154,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -237,11 +237,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -316,11 +316,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -391,11 +391,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -482,11 +482,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -581,11 +581,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -652,11 +652,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -731,11 +731,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -798,11 +798,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -893,11 +893,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -972,11 +972,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1067,11 +1067,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1142,11 +1142,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1229,11 +1229,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1320,11 +1320,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1427,11 +1427,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1530,11 +1530,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1613,11 +1613,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1704,11 +1704,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1795,11 +1795,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1878,11 +1878,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -1961,11 +1961,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -2040,11 +2040,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -2119,11 +2119,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
@@ -2206,11 +2206,11 @@
           "angle": "0deg",
           "data": [
             {
-              "color": "#000000",
+              "color": "rgba(0,0,0,0)",
               "position": "0%"
             },
             {
-              "color": "rgba(0,0,0,0)",
+              "color": "#000000",
               "position": "99%"
             }
           ]
