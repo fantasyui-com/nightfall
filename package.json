@@ -17,7 +17,7 @@
     "watch": "^1.0.2"
   },
   "devDependencies": {
-    "posthtml": "^0.11.4"
+    "posthtml": "^0.11.6"
   },
   "description": "Simple and beautiful nightfall background collection. [Art, CSS, Backgrounds, CSS Gradients]",
   "main": "index.js",
